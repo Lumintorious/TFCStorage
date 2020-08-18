@@ -1,0 +1,61 @@
+tfc.food_traits.cool=Cool
+tfc.food_traits.jar=Vinegar Preserved
+tfc.food_traits.hung=Cool and Hanging
+tfc.food_traits.sheltered=Sheltered
+
+tfcstorage.tooltip.not_sheltered=Not Sheltered
+tfcstorage.tooltip.not_underground=Not Underground
+tfcstorage.tooltip.not_preserving=Not Preserving
+
+# Food Shelves
+tile.wood/food_shelf/acacia.name=Acacia Food Shelf
+tile.wood/food_shelf/ash.name=Ash Food Shelf
+tile.wood/food_shelf/aspen.name=Aspen Food Shelf
+tile.wood/food_shelf/birch.name=Birch Food Shelf
+tile.wood/food_shelf/blackwood.name=Blackwood Food Shelf
+tile.wood/food_shelf/chestnut.name=Chestnut Food Shelf
+tile.wood/food_shelf/douglas_fir.name=Douglas Fir Food Shelf
+tile.wood/food_shelf/hickory.name=Hickory Food Shelf
+tile.wood/food_shelf/maple.name=Maple Food Shelf
+tile.wood/food_shelf/oak.name=Oak Food Shelf
+tile.wood/food_shelf/kapok.name=Kapok Food Shelf
+tile.wood/food_shelf/palm.name=Palm Food Shelf
+tile.wood/food_shelf/pine.name=Pine Food Shelf
+tile.wood/food_shelf/rosewood.name=Rosewood Food Shelf
+tile.wood/food_shelf/sequoia.name=Sequoia Food Shelf
+tile.wood/food_shelf/spruce.name=Spruce Food Shelf
+tile.wood/food_shelf/sycamore.name=Sycamore Food Shelf
+tile.wood/food_shelf/white_cedar.name=White Cedar Food Shelf
+tile.wood/food_shelf/willow.name=Willow Food Shelf
+
+# Hangers
+tile.wood/hanger/acacia.name=Acacia Hanger
+tile.wood/hanger/ash.name=Ash Hanger
+tile.wood/hanger/aspen.name=Aspen Hanger
+tile.wood/hanger/birch.name=Birch Hanger
+tile.wood/hanger/blackwood.name=Blackwood Hanger
+tile.wood/hanger/chestnut.name=Chestnut Hanger
+tile.wood/hanger/douglas_fir.name=Douglas Fir Hanger
+tile.wood/hanger/hickory.name=Hickory Hanger
+tile.wood/hanger/maple.name=Maple Hanger
+tile.wood/hanger/oak.name=Oak Hanger
+tile.wood/hanger/kapok.name=Kapok Hanger
+tile.wood/hanger/palm.name=Palm Hanger
+tile.wood/hanger/pine.name=Pine Hanger
+tile.wood/hanger/rosewood.name=Rosewood Hanger
+tile.wood/hanger/sequoia.name=Sequoia Hanger
+tile.wood/hanger/spruce.name=Spruce Hanger
+tile.wood/hanger/sycamore.name=Sycamore Hanger
+tile.wood/hanger/white_cedar.name=White Cedar Hanger
+tile.wood/hanger/willow.name=Willow Hanger
+
+# Grain Piles
+tile.grain_pile/wheat_grain.name=Wheat Grain Pile
+tile.grain_pile/barley_grain.name=Barley Grain Pile
+tile.grain_pile/oat_grain.name=Oat Grain Pile
+tile.grain_pile/maize_grain.name=Maize Grain Pile
+tile.grain_pile/rice_grain.name=Rice Grain Pile
+tile.grain_pile/rye_grain.name=Rye Grain Pile
+
+tile.jar.name=Jar
+tile.jar_filled.name=Filled Jar

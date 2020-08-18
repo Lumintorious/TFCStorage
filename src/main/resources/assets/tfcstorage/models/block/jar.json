@@ -1,0 +1,87 @@
+{
+	"credit": "Made with Blockbench",
+	"elements": [
+		{
+			"name": "glass",
+			"from": [4, 0, 4],
+			"to": [12, 9, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 8, 12]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#glass"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#glass"}
+			}
+		},
+		{
+			"name": "lid",
+			"from": [5, 9, 5],
+			"to": [11, 10, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 17, 13]},
+			"faces": {
+				"north": {"uv": [0, 0, 10, 1], "texture": "#lid"},
+				"east": {"uv": [0, 0, 10, 1], "texture": "#lid"},
+				"south": {"uv": [0, 0, 10, 1], "texture": "#lid"},
+				"west": {"uv": [0, 0, 10, 1], "texture": "#lid"},
+				"up": {"uv": [0, 0, 10, 10], "texture": "#lid"},
+				"down": {"uv": [0, 0, 10, 10], "texture": "#lid"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, -135, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375],
+			"textures": {
+				"#glass": "#lid"
+			}
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, -135, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375],
+			"textures": {
+				"#glass": "#lid"
+			}
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -45, 0],
+			"scale": [0.4, 0.4, 0.4],
+			"textures": {
+				"#glass": "#lid"
+			}
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -45, 0],
+			"scale": [0.4, 0.4, 0.4],
+			"textures": {
+				"#glass": "#lid"
+			}
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25],
+			"textures": {
+				"#glass": "#lid"
+			}
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"scale": [0.625, 0.625, 0.625],
+			"textures": {
+				"#glass": "#lid"
+			}
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0, -1],
+			"scale": [0.5, 0.5, 0.5],
+			"textures": {
+				"#glass": "#lid"
+			}
+		}
+	}
+}

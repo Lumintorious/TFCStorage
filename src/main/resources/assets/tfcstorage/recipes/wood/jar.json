@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+
+    "PSP",
+    "P P",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "type": "forge:ore_dict",
+      "ore": "paneGlass"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "sheetTin"
+    }
+  },
+  "result": {
+    "item": "tfcstorage:jar",
+    "count": 4
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "LLL",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "tfc:wood/planks/rosewood"
+    },
+    "L": {
+      "item": "tfc:wood/lumber/rosewood"
+    }
+  },
+  "result": {
+    "item": "tfcstorage:wood/food_shelf/rosewood",
+    "count": 1
+  }
+}

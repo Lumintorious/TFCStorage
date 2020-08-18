@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "LLL",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "tfc:wood/planks/hickory"
+    },
+    "L": {
+      "item": "tfc:wood/lumber/hickory"
+    }
+  },
+  "result": {
+    "item": "tfcstorage:wood/food_shelf/hickory",
+    "count": 1
+  }
+}

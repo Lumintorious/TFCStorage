@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "LLL",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "tfc:wood/planks/chestnut"
+    },
+    "L": {
+      "item": "tfc:wood/lumber/chestnut"
+    }
+  },
+  "result": {
+    "item": "tfcstorage:wood/food_shelf/chestnut",
+    "count": 1
+  }
+}

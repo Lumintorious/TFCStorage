@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "LLL",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "tfc:wood/planks/sycamore"
+    },
+    "L": {
+      "item": "tfc:wood/lumber/sycamore"
+    }
+  },
+  "result": {
+    "item": "tfcstorage:wood/food_shelf/sycamore",
+    "count": 1
+  }
+}

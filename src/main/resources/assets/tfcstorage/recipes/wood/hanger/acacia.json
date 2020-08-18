@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "P": {
+      "item": "tfc:wood/planks/acacia"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "string"
+    }
+
+  },
+  "result": {
+    "item": "tfcstorage:wood/hanger/acacia",
+    "count": 1
+  }
+}

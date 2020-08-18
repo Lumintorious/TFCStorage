@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "LLL",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "tfc:wood/planks/sequoia"
+    },
+    "L": {
+      "item": "tfc:wood/lumber/sequoia"
+    }
+  },
+  "result": {
+    "item": "tfcstorage:wood/food_shelf/sequoia",
+    "count": 1
+  }
+}
